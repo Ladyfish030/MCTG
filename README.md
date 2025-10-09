@@ -1,2 +1,2 @@
 # MCTG
-All code will be available upon acceptance.
+The code will be pushed to the repository soon.
